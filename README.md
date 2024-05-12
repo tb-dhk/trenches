@@ -24,24 +24,24 @@
 
 ## tracks
 
-| track               | confirmed | conceptualised | produced | lyrics | recorded | mastered | completed |
+| track | confirmed | conceptualised | produced | lyrics | recorded | mastered | completed |
 |---------------------|-----------|----------------|----------|--------|----------|----------|-----------|
-| intro: trenches     | - [ ]       | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| burn                | - [ ]       | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| 40winks             | - [ ]       | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| stay                | - [ ]       | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| are you really there?| - [ ]      | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| interlude: i know too much. | - [ ] | - [ ]          | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| headstart           | - [ ]       | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| hold me now         | - [ ]       | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| invisible           | - [ ]       | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| go to hell!         | - [ ]       | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| [unnamed interlude] | - [ ]       | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| poison              | - [ ]       | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| fuck me (in particular) | - [ ]   | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| satan's spawn       | - [ ]       | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| fantasy             | - [ ]       | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
-| outro: rebirth      | - [ ]       | - [ ]            | - [ ]      | - [ ]    | - [ ]      | - [ ]      | - [ ]       |
+| intro: trenches | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| burn | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| 40winks | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| stay | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| are you really there?| 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| interlude: i know too much. | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| headstart | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| hold me now | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| invisible | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| go to hell! | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| [unnamed interlude] | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| poison | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| fuck me (in particular) | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| satan's spawn | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| fantasy | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
+| outro: rebirth | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ | 	❌ |
 
 ---
 
