@@ -6,7 +6,7 @@
 
 ## description
 
-*trenches* is tbdhk's first album, featuring a diverse range of genres that encapsulate the artist's unique musical style and creative vision.
+*trenches* is tbdhk's first album, featuring a diverse range of genres that encapsulates their unique musical style and creative vision.
 
 ---
 
@@ -55,7 +55,7 @@
 
 ## about tbdhk
 
-tbdhk is a multi-talented artist known for pushing the boundaries of music and creativity. stay tuned for more updates about tbdhk's journey and upcoming projects.
+tbc
 
 ---
 
